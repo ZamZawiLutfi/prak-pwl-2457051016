@@ -40,7 +40,7 @@
 
                 <div style="text-align: center; margin-bottom: 20px;">
                     <h1 style="color: #ef4444; font-size: 24px; font-weight: bold;">
-                        Halo! Saya Setia Diva Erlandi dengan NPM 2417051072
+                        Halo! Saya ZamZawi Lutfi dengan NPM 2457051016
                     </h1>
                 </div>
                 <div class="mt-16">
